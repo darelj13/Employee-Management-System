@@ -1,0 +1,76 @@
+body{
+  background-color: #ff7171;
+}
+
+
+
+.navbar-brand{
+  font-family: 'Oleo Script Swash Caps', cursive;
+  font-size: 2.7rem;
+  margin-left: 7rem;
+}
+
+
+.logout-dash{
+  font-size: 1.3rem;
+  font-weight: bolder;
+  margin-right: 9rem;
+}
+
+.rect1{
+  content {
+    overflow:auto;
+    width: 1020px;
+    height:500px;
+    background: gray;
+  }
+}
+
+.left1{
+    width: 50%;
+    background: #ecf0f3;
+    float: left;
+    border-top-left-radius:60px;
+    border-bottom-left-radius:60px;
+    margin-left: 100px;
+}
+
+.right1{
+  width: 34.66%;
+  background: #a3d2ca;
+  float: right;
+  border-top-right-radius:60px;
+  border-bottom-right-radius:60px;
+  margin-right: 106.951px;
+}
+
+.butt{
+    margin-left: 6.5rem;
+    width: 50%;
+    display: block;
+    border-radius: 30px;
+    margin-top: 2.5rem;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    font-family: sans-serif verdana;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    background-color: #ff7171;
+    box-shadow: 3px 3px 8px #b1b1b1,
+    -3px -3px 8px #fff;
+    transition: all 0.5s;
+  }
+
+  .butt:hover{
+    background-color: #194350;
+  }
+
+  .butt1{
+    margin-top: 7rem;
+  }
+
+.butt4{
+  margin-bottom: 11.2rem;
+}

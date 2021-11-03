@@ -1,0 +1,28 @@
+body{
+  background-color: #ff7171;
+}
+
+.table{
+  text-align: center;
+}
+.navbar-brand{
+  font-family: 'Oleo Script Swash Caps', cursive;
+  font-size: 2.7rem;
+  margin-left: 7rem;
+  margin-right: 13rem;
+}
+
+.navbar{
+  background-color: #ff7171;
+
+}
+
+.form-control:focus{
+  border-color: #a3d2ca;
+}
+
+.cust{
+
+  left: 100%;
+  margin-left: -250px;
+}
